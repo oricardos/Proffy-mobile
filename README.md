@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="https://github.com/oricardos/Proffy/blob/master/logo.jpg" />
+</h1>
+
 # Proffy Mobile
 
 ## Aprendizados
