@@ -16,3 +16,7 @@ style={[styles.styleName1, styles.styleName2]} array pra colocar mais de um esti
 
 ### Navegação
 react navigation - https://reactnavigation.org/
+
+
+## License
+MIT License
