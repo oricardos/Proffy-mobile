@@ -4,18 +4,25 @@
 
 # Proffy Mobile
 
-## Aprendizados
+## Sobre o Proffy
 
-fonts - expo-google-fonts https://github.com/expo/google-fonts
+O Proffy mobile permite que alunos encontrem professores para aulas online.
 
-react-native não tem display grid e variáveis css
+<h1 align="center">
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="" />
+</h1>
 
-TouchableOpacity - Botão que quando clicado tem uma leve perda de opacidade 
+## Feito com:
+- [React Native](https://reactnative.dev/)
+- [Expo](https://docs.expo.io/)
+- [Expo Google Fonts](https://github.com/expo/google-fonts)
+- [React Navigation](https://reactnavigation.org/)
 
-style={[styles.styleName1, styles.styleName2]} array pra colocar mais de um estilo em um mesmo elemento 
-
-### Navegação
-react navigation - https://reactnavigation.org/
+## Como contribuir para o projeto
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
 
 
 ## License
