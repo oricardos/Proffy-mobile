@@ -9,7 +9,7 @@
 O Proffy mobile permite que alunos encontrem professores para aulas online.
 
 <h1 align="center">
-  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="" />
+  <img alt="NextLevelWeek2" title="#NextLevelWeek2" src="https://github.com/oricardos/Proffy-mobile/blob/master/screenshot.jpg" />
 </h1>
 
 ## Feito com:
